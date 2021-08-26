@@ -1,0 +1,6 @@
+Destructuring the Arrays and Objects are only supported from ES6 version of the Javascript.
+
+ES6(ECMAScript - 6) version of Javascript includes very large no. of new features.
+
+Destructuring is makes more impact in OBJECTS rather than ARRAYS.
+
