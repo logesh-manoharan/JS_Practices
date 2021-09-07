@@ -1,0 +1,30 @@
+append()                                    appendChild()              
+
+    Accepts multiple parameter              Accepts single parameter   
+        append("", "", ...);                    body.appendChild(elements);
+        body.append("hello", "world");
+
+createElement();
+
+
+textContent                                         innerText                           innerHtml
+
+Didn't consider thje styles                        Shows the value in current page     doucment.innerHtml("<b>hello</b>");
+
+
+querySelector("CSS Selectors");
+
+
+datasets
+
+<div id="div1" data-firt-name="Logesh"></div>
+
+script => 
+        var div1 = doucment.querySelector("#div1");
+        div1.datasets.firstName   // it prints "Logesh"
+
+classList:
+
+    supports=> add(), remove(), ...etc.,
+    div1.classList.add();
+
